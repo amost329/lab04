@@ -1,0 +1,7 @@
+i
+am
+learning
+bash
+from
+this
+lab
